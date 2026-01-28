@@ -2,6 +2,10 @@
 
 A modern, visually stunning personal portfolio website built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion.
 
+## 📸 Preview
+
+![Portfolio Preview](https://github.com/user-attachments/assets/293d637f-ab9a-483b-9f97-ae690a3d07b4)
+
 ## 🚀 Features
 
 - **Modern Design**: Clean, professional dark-themed design with smooth animations
